@@ -5,7 +5,7 @@ It's 2020.  Hell yes, I still play DOOM, though these days it's always a GZDoom 
 
 Thanks for checking out this WAD.  
 
-![Title Screen Image](https://github.com/lawrencecandilas/serenity-castle/blob/master/Assets/Screenshots/Screenshot_Doom_20200127_215043.png?raw=true)
+![Title Screen Image](https://github.com/lawrencecandilas/doom-wads/blob/main/001%20Serenity%20Castle/Serenity%20Castle%20-%20Titlepic.jpg?raw=true)
 
 ## The journey
 
@@ -18,6 +18,8 @@ But years later, I discovered DOOM source ports, then the wonderful ZDoom and GZ
 I've known about Doom Builder for a while, and a few months ago, decided to install Doom Builder 2 again, learn how it works and actually complete something in my life.
 
 ## About this WAD
+
+![Automap Preview](https://github.com/lawrencecandilas/doom-wads/blob/main/001%20Serenity%20Castle/Serenity%20Castle%20-%20Automap.png?raw=true)
 
 When playing the original DOOM over 20 years ago, the little glimpses outside captivated me.  It made me wonder just how big you could make a level and how expansive it could be.  After learning that the F_SKY1 texture is really a a fake ceiling, and that in reality all DOOM levels are techincally "inside", my innocence was shattered and I went into a deep depression for a few hours.
 
