@@ -7,7 +7,7 @@
  
 Fairchild Island.wad - GZDoom required; uses DOOM2.EXE or compatible WAD; developed with Brutal DOOM mod in mind and very recommended but not needed.  This has a MAPINFO with a 1-level episode and ending like my earlier WADs, just start the game, or enter "MAP START" to restart.  Because of the MP3 music file, and the fact that this WAD has a very large number of sectors and linedefs, this WAD is big.
 
- ![Fairchild Island - Automap Preview)(https://github.com/lawrencecandilas/doom-wads/blob/main/003%20Fairchild%20Island/Fairchild%20Island%20-%20Full%20Automap.png?raw=true)
+ ![Fairchild Island - Automap Preview](https://github.com/lawrencecandilas/doom-wads/blob/main/003%20Fairchild%20Island/Fairchild%20Island%20-%20Full%20Automap.png?raw=true)
 
 There is NO WAY this will work in the original DOOM2.EXE.  BOOM segfaults when trying to load this WAD.  Sorry.  You'll want freelook anyway to look at all the pretty ceiling decay.
 
