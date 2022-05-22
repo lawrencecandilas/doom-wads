@@ -3,7 +3,7 @@
 
 Blue Fire Park is a WAD containing a short challenging map for Id Software's DOOM.  The par time is 8 minutes.  
 
-![Title Image]()
+![Title Image](https://github.com/lawrencecandilas/doom-wads/blob/main/005%20Blue%20Fire%20Park/BFTTLPIC.png)
 
 ## About this WAD
 
@@ -12,6 +12,8 @@ In my previous WAD, Venom Pits, I was originally trying to fit a level into PSX 
 Turns out I'm dumb and can't read.  That limit is actually slightly higher, and this time I made it.  
 
 Additionally, the PSX DOOM engine has more than just a geometry object limit - due to limited video RAM it's necessary to also minimize the number of textures and monsters created.  So this was also a factor in designing this map.
+
+![Blue Fire Park - Automap Preview](https://github.com/lawrencecandilas/doom-wads/blob/main/005%20Blue%20Fire%20Park/Blue%20Fire%20Park%20-%20Automap.png)
 
 ## Notes
 
