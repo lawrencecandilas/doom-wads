@@ -1,0 +1,11 @@
+There are 3 Ogg Vorbis music tracks in this WAD, one for the title, one for the game, and one for the ending.
+
+All were composed using FL Studio 7.0 XXL v7.0.0.
+
+The following software VSTs were used in creating the title music and ending music:
+- reFX PlastiCZ (version 1.0)
+
+The game music is the same track as the one in my previous WAD Loveland Factory.  The following software VSTs were used in creating that track:
+- reFX PlastiCZ (version 1.0)
+- reFX JunoX2 (version 1.51)
+- Sonicbits SynthOne (version 0.1)

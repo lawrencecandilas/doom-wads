@@ -1,0 +1,8 @@
+On all WADs:
+
+Music was composed using FL Studio 7.0 XXL v7.0.0.
+Software VSTs:
+
+- PlastiCZ (version 1.0)
+- reFX JunoX2 Version 1.51
+- VST - Sonicbits Synthone v0.1
