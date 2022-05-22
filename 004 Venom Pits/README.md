@@ -5,7 +5,7 @@ This is for GZDoom with Brutal Doom mod v21.  Brutal Doom mod not required to co
 
 Thanks for checking this out.
 
-![Title Image](https://github.com/lawrencecandilas/venom-pits/blob/master/Assets/Venom%20Pits%20-%20Title%20Pic.png)
+![Title Image](https://github.com/lawrencecandilas/doom-wads/blob/main/004%20Venom%20Pits/VPTTLPIC.png)
 
 Thanks to Delisk, Biodegradable and azerty from Doomworld.com (https://www.doomworld.com/forum/topic/127733-venom-pits/) for trying out and making playthrough videos of this WAD.
 
@@ -16,6 +16,8 @@ https://youtu.be/nEJNqV9bTfw
 ## About this WAD
 
 It has been a year since I've worked on and released a WAD, and I wanted to do something basic and something that does not focus too much on decor or the look of the level.  
+
+![Venom Pits - Automap Preview](https://github.com/lawrencecandilas/doom-wads/blob/main/004%20Venom%20Pits/Venom%20Pits%20-%20Map.png)
 
 Really, I was trying to design a level that would work in PSX DOOM's limitations (the hardest limit to respect seems to be the ~1500 sidedef limit), but gave up 3/4 of the way through, and decided to at least target vanilla DOOM's limitations.
 
