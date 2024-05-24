@@ -12,17 +12,21 @@ Loveland Factory.wad - GZDoom compatible; tested thoroughly with GZDoom 4.5.0 an
 
 Thanks for checking out these WADs.
 
-![Title Image](https://github.com/lawrencecandilas/loveland-factory/blob/master/Assets/Graphics/Loveland%20Factory%20-%20LFTTLPIC.png)
+![Title Image](https://github.com/lawrencecandilas/doom-wads/blob/main/002%20Loveland%20Factory/LFTTLPIC.png?raw=true)
 
 ## Story
 
-![Story Image](https://github.com/lawrencecandilas/loveland-factory/blob/master/Assets/Graphics/Loveland%20Factory%20-%20LFSTORY.png)
+![Story Image](https://github.com/lawrencecandilas/doom-wads/blob/main/002%20Loveland%20Factory/LFSTORY.png?raw=true)
 
 ## About these WADs
 
 After my last WAD, I wanted to try and make something that would work with vanilla DOOM's limitations.  This is the result.  It's nowhere near as huge as my last WAD (Serenity Castle), but is still has a level of complexity.
 
-"LOVELAND.WAD" loads and runs fine in DOOM2.EXE version V1.9 (MAP01).  It has a custom MIDI music track.  I didn't test any other DOS versions or DOS sourceports.  Visplane count doesn't get above 100 anywhere in the map (at least according to Visplane Explorer).  What was worse than watching the visplanes was finding and resolving drawseg overflows.  Even though Visplane Explorer shows drawseg overflows in two corners, I couldn't get any HoM to trigger in the real DOOM2.EXE.
+"LOVELAND.WAD" loads and runs fine in DOOM2.EXE version V1.9 (MAP01).  
+
+![DOSBox Launch Example](https://github.com/lawrencecandilas/doom-wads/blob/main/002%20Loveland%20Factory/doom2_000.png?raw=true)
+
+It has a custom MIDI music track.  I didn't test any other DOS versions or DOS sourceports.  Visplane count doesn't get above 100 anywhere in the map (at least according to Visplane Explorer).  What was worse than watching the visplanes was finding and resolving drawseg overflows.  Even though Visplane Explorer shows drawseg overflows in two corners, I couldn't get any HoM to trigger in the real DOOM2.EXE.
 
 I'll be honest, I didn't playtest under vanilla DOOM as much as GZDoom, because I'm addicted to freelook.  
 
