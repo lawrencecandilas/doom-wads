@@ -1,15 +1,23 @@
 # fairchild-island
  Fairchild Island DooM WAD
  
- ![Fairchild Island title picture](https://github.com/lawrencecandilas/fairchild-island/blob/master/Assets/Fairchild%20Island%20-%20Title%20Pic.png)
+ ![Fairchild Island title picture](https://github.com/lawrencecandilas/fairchild-island/blob/master/Assets/FITTLPIC.png)
  
-Fairchild Island.wad - GZDoom required; uses DOOM2.EXE or compatible WAD; developed with Brutal DOOM mod in mind and very recommended but not needed.  This has a MAPINFO with a 1-level episode and ending like my earlier WADs, just start the game, or enter "MAP START" to restart.  Because of the MP3 music file, and the fact that this WAD has a very large number of sectors and linedefs, this WAD is big.
+Fairchild Island.wad - GZDoom required; uses DOOM2.EXE or compatible WAD; developed with Brutal DOOM mod in mind and very recommended but not needed.  This has a MAPINFO with a 1-level episode and ending like my earlier WADs, just start the game, or enter "MAP START" to restart.  Because of the OGG music files, and the fact that this WAD has a very large number of sectors and linedefs, this WAD is big.
 
-There is NO WAY this will work in the original DOOM2.EXE.  BOOM segfaults when trying to load this WAD.  Sorry.  You'll want freelook anyway to look at all the pretty ceiling decay.
+There is NO WAY this will work in the original DOOM2.EXE.  BOOM segfaults when trying to load this WAD.  Use GZDoom or equivalent.
 
 Thanks for checking out this WAD.
 
 ## Special Thanks
+
+Update 20240524
+
+Well, I never uploaded this to idgames so I went ahead and did that - uploaded asa frchldislnd.wad.
+
+Before I did the above, I added title music, ending music, updated the ending screen, switched the music format from MP3 to OGG, and did a few minor changes and corrections in the map.  This WAD has no SEGS, SSECTORS, NODES, REJECT or BLOCKMAP tables - the nodebuilder was giving me problems and I turned it off since GZDoom doesn't need them.  Testing was done with Brutal Doom mod v21, so if you use Brutal Doom you should use that version.
+
+Update 20210131
 
 I would like to thank cuppykeks from Doomworld for spending some time with me and this WAD on Discord and providing a lot of detailed feedback.  This feedback focused on something I didn't even really test during development: playing this WAD without the Brutal Doom mod enabled and using GZDoom in software rendering mode--and this is what you'll be doing if you're looking for an experience as close to classic DOOM as possible.
 
@@ -35,17 +43,17 @@ Again: There is NO WAY this will work in the original DOOM2.EXE.  BOOM segfaults
 
 ## Hints (spoiler alert)
 
-- In the first part where you are washed up on shore - you will need to shoot a gargoyle face to open a passageway.  You will have to do this a later time as well.
+- If you seem stuck, find a gargoyle face to shoot at to open a door.  This happens twice.
 
-- Walk into the corner to make a hidden platform lift.  Then open the hidden wall.
+- A corner of one room will rise when you walk on it.
 
-- When you get to the section where there are many tall columns with enemies on them, the best thing to do will be to run to the other side where you can be somewhat safe.
+- Most, not all, switch obelisks will open doors that are not in the same room you are in.
 
-- Save your BFG for use after the yellow key door.
+- You can only leave Fairchild Island in a non-broken boat.
 
 ## License and Copyright
 
-WAD and music are copyright 2020 Lawrence Candilas
+WAD and music are copyright 2020, 2024 Lawrence Candilas
 
 WAD and music are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 

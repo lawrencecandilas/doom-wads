@@ -1,0 +1,117 @@
+===========================================================================
+Archive Maintainer      : Lawrence
+Update to               : [New]
+Advanced engine needed  : GZDoom
+Primary purpose         : Single+Coop play
+===========================================================================
+Title                   : Fairchild Island
+Filename                : frchldislnd.zip
+Release date            : 2024-05-24
+Author                  : Lawrence
+Email Address           : lawrencecandilas@gmail.com
+Other Files By Author   : Blue Fire Park - bluefirepark.zip
+			  Venom Pits - venompits.zip
+			  Loveland Factory - lvlndfctry.zip
+Misc. Author Info       : 
+
+Description             : The ruins on Fairchild Island were famous.  It
+			  was believed that an ancient water shirne lay
+			  deep within the heart of this place.
+			  It's also a great fishing spot.
+			  Another boat has to be somewhere around here ...
+		 	  ...right?
+			  
+Additional Credits to   : * cuppykeks for walking through the WAD with me 4
+			  years ago providing detailed feedback.
+			  * all the other kind words on the Doomworld.com 
+			  forum post.
+===========================================================================
+* What is included *
+
+New levels              : Single episode MAPINFO included
+Sounds                  : No
+Music                   : Yes (by me)
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : Use "MAP START" to start or restart map
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 3 months
+Editor(s) used          : DBX2019.1
+Known Bugs              : 
+May Not Run With        : Anything that isn't GZDoom.
+Tested With             : GZDoom v4.5.0 with Brutal Doom mod v21 and no
+			  other mods.
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.  I have received permission from the original
+authors of any modified or included content in this file to allow
+further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
+
+
+
+* Additional Information *
+
+In 2020 I first posted this WAD to Doomworld.com: 
+https://www.doomworld.com/forum/topic/118758-fairchild-island
+
+I never uploaded it to idgames so here we are.  This version has some
+revisions and improvements from the original one posted to the
+Doomworld.com forumm, including title and end music.
+
+This is a big WAD and will require at least 30 minutes of your time.
+
+This WAD was designed with the following in mind:
+* freelook 
+  If for no other reason so you can see all the ceiling detail.
+* jumping
+  Useful/expected but I think you can get everywhere without it.
+* Brutal Doom
+  Specifically, using the scope on the rocket launcher is expected and
+  very helpful in some spots.
+  But it is totally playable without Brutal Doom.
+
+* Hints *
+
+- If you seem stuck, find a gargoyle face to shoot at to open a door.  
+This happens twice.
+
+- A corner of one room will rise when you walk on it.
+
+- Most, not all, switch obelisks will open doors that are not in the
+same room you are in.
+
+- You can only leave Fairchild Island in a non-broken boat.
