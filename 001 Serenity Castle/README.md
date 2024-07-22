@@ -2,6 +2,8 @@
  Serenity Castle DooM WAD (for GZDoom and compatible)
  Version Two.  Originally released in 2020.
 
+![Title Image](https://github.com/lawrencecandilas/doom-wads/blob/main/001%20Serenity%20Castle/Assets/v2/SCV2TIT1.png?raw=true)
+
 The original release of this WAD was in 2020.  
 
 ## Version Two Update

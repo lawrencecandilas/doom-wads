@@ -1,8 +1,0 @@
-There are 3 Ogg Vorbis music tracks in this WAD, one for the title, one for the game, and one for the ending.
-
-The title and level BGM were composed using FL Studio 7.0 XXL v7.0.0.
-
-The following software VSTs were used in creating the title music and ending music:
-- reFX PlastiCZ (version 1.0)
-
-The ending music was composed on onlinesequencer.net and recorded/converted to .OGG using Audacity.
