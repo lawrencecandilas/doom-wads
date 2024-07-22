@@ -43,13 +43,17 @@ Outside - North Rocky Path:
 
 - The north rocky path, after you get through the big "baron of knight" gate, now has:
 
--- nukage
--- interesting colors
--- some monsters removed,
--- barrels placed near enemies,
--- cell packs everywhere.  
+ - nukage
+ 
+ - interesting colors
 
-  so you can blast through it.  You still need to be careful, but it's less tedious and much more fun.
+ - some monsters removed,
+ 
+ - barrels placed near enemies,
+ 
+ - cell packs everywhere.  
+
+ ... so you can blast through it.  You still need to be careful, but it's less tedious and much more fun.
 
 CASTLE INTERIOR:
 
