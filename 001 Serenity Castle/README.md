@@ -6,12 +6,14 @@ The original release of this WAD was in 2020.
 
 ## Version Two Update
 
-Welp, it's 3 years later.  I've made more WADs since then, and have learned some things:
+Welp, it's 4 years later.  I've made more WADs since then, and have learned some things:
 
  - Too many monsters make things tedious.
  - This level is too damn big.
 
-Now honestly, it is too big.  It could easily be 3 or 4 separate WADs.  But, I still like the design of it.  A few "quality of life" improvements have been done to make it funner.  I am hoping the player is not as tired upon getting the blue key and making it out of the castle.
+Now honestly, it is too big.  It could easily be 3 or 4 separate WADs.  But, I still like the design of it.  Some "quality of life" improvements have been done to make it funner and I did some floor detail.  I am hoping the player is not as tired once exiting the castle's "front door."
+
+This WAD took me 45 minutes to complete during testing.  For someone new to the WAD, I would expect at least 1 hour and 30 minutes of solid gameplay.
 
 ### Quality of life improvements:
 
@@ -54,8 +56,6 @@ Castle Interior - Northwest Dark Room
 - Barrels have been added.  Snipers in here should bother you less.
 
 - A window has been added.
-
-Castle Interior - 
 
 Castle Interior - Southwest Blue Key Room:
 
@@ -107,7 +107,7 @@ Northern Blood Pit Room:
 
 - The switch in the "blood pit" room was able to be triggered without being on the "bridge" (summoned by another switch) up from the pit.  This was fixed by moving the switch back into the wall and making the surrounding wall come forward.  You can't cheat here anymore.
 
-- It was also possible to jump to the switch there.  Safety pylons and a fence have been added to prevent accidental slippage into the pit.
+- It was also possible to jump to the switch there.  Safety pylons and a fence have been added to prevent accidental or intentional slippage into the pit.
 
 Classic Rendering:
 
@@ -121,13 +121,13 @@ It is not recommended you play with Software Rendering as this map depends on ve
 
 This WAD initially was developed on an old PC (AMD Athlon dual-core with 6GB of RAM), using GZDoom 1.8.1, Brutal Doom v19, and Doom Builder 2, with SLADE to assemble assets.  The WAD ran slowly on this system, and got unplayable in parts.  
 
-Later development was done with DBX2019.1 on a newer system - my current HP laptop (from Wal-Mart) with a quad-core Intel CPU, 8GB of RAM and Intel integrated graphics.  The WAD runs decently on this system.  Any system manufactured in the last 10 years or so should run this fine.
+Later development was done with DBX2019.1 on a newer system - my current HP laptop (from Wal-Mart) with a quad-core Intel CPU, 8GB of RAM and Intel integrated graphics.  The WAD runs decently on this system but does drop to 20fps in places.  Really though any system manufactured in the last 10 years or so should run this fine.
 
 It does seem some combination of DBX2019.1, Brutal Doom v21 and GZDoom 1.8.1 causes an error about unrecognized NOAUTOMAP tags at startup.  This does not happen with Brutal Doom v21 and GZDoom 4.5.0, so please use GZDoom 4.5.0 or higher.
 
 ### Brutal Doom v21 Recommended  
 
-Serenity Castle was designed with Brutal Doom in mind--the lighting definitely enhances the experience throughout the dark Serenity Castle, but it is playable without it.  Some rendering issues in Software Rendering mode were found and fixed.
+Serenity Castle was designed with Brutal Doom in mind--the lighting definitely enhances the experience throughout the dark Serenity Castle, but it is playable without it.
 
 ### Freelook Recommended, Jumping/Crouching Optioal
 
@@ -136,9 +136,11 @@ You will want to enable freelook because verticality is definitely a factor in t
 
 ## Hints
 
+- You will need ALL THE AMMO you can get your hands on.
+
 - Look behind boxes.
 
-- There are no Cyberdemons, Archviles, or Spider Masterminds in this WAD.
+- There are no Cyberdemons, Archviles, Spider Masterminds, or actual serenity in this WAD.
 
 - If you get overwhelmed with monsters at certain points, keep moving and come back later to kill everything if you're trying to get 100% kills.  I can't get 100% kills so it may not be possible and I need to fix that.
 
@@ -148,15 +150,13 @@ You will want to enable freelook because verticality is definitely a factor in t
 
 - You'll visit the big central "arena" twice.  You'll have a second opportunity to kill all the monsters there.
 
-- There's a way to turn the light on in the really dark storeroom.
-
 - Watch out for crushers.  There is one and it may surprise you.
 
 - The Baron of Hell block, if touched, will lower a platform, and you'll find it useful.
 
 - After you exit the castle, head to the right towards the lake to get the BFG.  You don't want to pass it up.
 
-- The switch that opens the big "Baron of Hell" door is in an outbuilding near the pit.
+- The switch that opens the big "Baron of Hell" door is in an outbuilding near the pit.  Follow the health bonuses.
 
 ## License and Copyright
 

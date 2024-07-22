@@ -1,0 +1,37 @@
+Name: Serenity Castle Version Two
+Map Format: Doom
+Ports Tested: GZDoom w/Brutal Doom Mod v21.
+IWAD: Doom2
+Map(s): Enter MAP START to start (MAPINFO included)
+Music: Me
+Gameplay: Single Player
+Difficulty Settings: Yes
+Multiplayer Placement: No
+Build Time: 3 months in 2020, about 3 additional months total
+Textures: Some modified DOOM2 textures and a secret texture of my own creation
+Requirements: Endurance (Probably will take you 1.5 hours to complete)
+
+The original release of this WAD was in early 2020.  
+https://www.doomworld.com/forum/topic/111778-serenity-castle/?tab=comments#comment-2075867
+
+Welp, it's 4 years later.  I've made more WADs since then, and have learned some things:
+
+ - Too many monsters make things tedious.
+ - This level is too damn big.
+
+Now honestly, it is too big.  It could easily be 3 or 4 separate WADs.  But, I still like the design of it.  Some "quality of life" improvements have been done to make it funner and I did some floor detail.  I am hoping the player is not as tired once exiting the castle's "front door."
+
+GENERAL:
+
+- I did a full sweep through the WAD and removed many monsters where I felt they were just too much and made the game too tedious.  Especially once you are outside the castle after running through it (the "front" of the castle).
+
+- I did not remove monsters in what I call the "choke points" - a few spaces where a bunch attack you at once.  I did try to establish a better rhythm of "ambush--relax--ambush--relax" instead of just a constantly increasing stream of monsters.
+
+- Additional ammo has been provided in spots where I was running low (and annoyed) during additional testing.
+
+- A few secrets have been added.
+
+- A useless super-secret has been added.
+
+This WAD has a special place in my heart because it's the first one I did and it was fun to create some things I always dreamed about when playing DOOM in the 90's.  But I think honestly it is not the best.  If you do check it out, have fun.
+

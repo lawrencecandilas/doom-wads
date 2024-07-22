@@ -1,0 +1,71 @@
+===========================================================================
+Archive Maintainer      : Lawrence
+Update to               : N/A
+Advanced engine needed  : GZDoom 4.5.0 or higher with Brutal Doom v21
+Primary purpose         : Single play
+===========================================================================
+Title                   : Serenity Castle Version Two
+Filename                : serenitycstl.zip
+Release date            : 2024-07-22
+Author                  : Lawrence
+Email Address           : lawrencecandilas@gmail.com
+Other Files By Author   : bluefirepark.zip, venompits.zip, frchldislnd.zip, lvlndfctry.zip
+Misc. Author Info       : 
+
+Description             : Version Two of my first WAD.  Serenity Castle is huge and intricate.  Set aside at least 1.5 hours.
+Additional Credits to   : 
+===========================================================================
+* What is included *
+
+New levels              : Yes
+Sounds                  : No
+Music                   : Yes (.ogg)
+Graphics                : Yes (pretty colors)
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : No
+
+
+* Play Information *
+
+Game                    : DOOM2
+Map #                   : MAP START (MAPINFO included)
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New except some recolored textures
+Build Time              : 6 months total
+Editor(s) used          : Doom Builder 2, DBX2019.1
+Known Bugs              : Too large, takes too long to finish
+May Not Run With        : Anything not GZDoom-based.
+Tested With             : GZDoom 4.5.0 (Earlier versions may not work)
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for
+modification or reuse.  Permissions have been obtained from original
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact.  I have received permission from the original
+authors of any modified or included content in this file to allow
+further distribution.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites:
+FTP sites:
+
