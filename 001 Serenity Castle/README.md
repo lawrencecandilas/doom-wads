@@ -35,7 +35,7 @@ OUTSIDE:
 
 Outside - General:
 
-- There are now 3 teleport platforms.  They will teleport you to other places outside and are not necessary to finish the level.  Two are accessible before you go into the castle, and one when you exit the castle.
+- There are now 3 teleport circles.  They will teleport you to other places outside and are not necessary to finish the level.  Two are accessible before you go into the castle, and one when you exit the castle.
 
 - The ridge with the BFG9000 has been made super obvious (turned red and in a 255-brightness sector).  After you go through the castle you may be tired so I decided to not torture the player here.
 
@@ -43,15 +43,15 @@ Outside - North Rocky Path:
 
 - The north rocky path, after you get through the big "baron of knight" gate, now has:
 
- - nukage
+  - nukage
  
- - interesting colors
+  - interesting colors
 
- - some monsters removed,
+  - some monsters removed,
  
- - barrels placed near enemies,
+  - barrels placed near enemies,
  
- - cell packs everywhere.  
+  - cell packs everywhere.  
 
  ... so you can blast through it.  You still need to be careful, but it's less tedious and much more fun.
 
@@ -73,9 +73,13 @@ Castle Interior - Southeast Electrical Room:
 
 Castle Interior - Big Central Arena.
 
-- Another teleporter has been installed in the big arena in the center of the castle, and will open once you cross a line that leads to the "electrical room."  This teleporter takes you to a high ledge right outside the "electrical room."  So, if you forget to press the switch lowering the blue key platform, you can get right back to the electrical room and press it.  Less tedious and less searching for the blue key and/or how to get it, hopefully.
+- Another teleporter has been installed in the big arena in the center of the castle, and will open once you cross a line that leads to the "electrical room."  This teleporter takes you to a high ledge right outside said room.
 
-- Barrels have been added in the surrounding mezzanine and in front of the big door back into the castle.  This makes it less tedious to deal with the flood of monsters that teleport there.
+  - So, if you forget to press the switch lowering the blue key platform, you can get right back to the electrical room and press it.
+
+  - Less tedious and less searching for the blue key and/or how to get it, hopefully.
+
+- Barrels have been added in the surrounding mezzanine and in front of the big door back into the castle.  This makes it less tedious (and honestly fun, yet challenging) to deal with the flood of monsters that teleport there.
 
 - Trigger lines have been added to make sure two holding pens release their monsters when you are on your way to get the blue key - whether you get there by the teleporter, the door from the big main room, or even if you try to go back through the gate above the big fiery pit.
 
@@ -84,6 +88,8 @@ OUTBUILDINGS:
 Outbuilding - Northern Guard Hall Across The Big Fiery Pit
 
 - The interior is brighter and a big light has been added making the switch inside more obvious and easier to find.
+  
+- Added some radiation suits.
 
 ### Bug fixes:
 
@@ -121,7 +127,7 @@ It is not recommended you play with Software Rendering as this map depends on ve
 
 - The fence in the room with the first Soul Sphere (secret area before reaching the big "Front Room" with all the rugs) had lower unpegged enabled and was visible through the floor.  The fence has been moved upward and given a pole on the right side to attach to.
 
-- HOM was observed outside when looking at the mountains from far distances.  This was remedied by encasing the whole map in a thin border of sectors with floor height 0 and ceiling height 8, making sure FSKY_1 is plotted everywhere it should be.  If you enable flying and fly up to the top of the mountains you will see rendering issues but you shouldn't be able to get there without cheating.
+- HOM was observed outside when looking at the mountains from far distances.  This was remedied by encasing the whole map in a thin border of sectors with floor height 0 and ceiling height 8, making sure F_SKY1 is plotted everywhere it should be.  If you enable flying and fly up to the top of the mountains you will see rendering issues but you shouldn't be able to get there without cheating.
 
 ## Requirements
 
@@ -166,7 +172,7 @@ You will want to enable freelook because verticality is definitely a factor in t
 
 ## License and Copyright
 
-WAD and music are copyright 2020, 2023 Lawrence Candilas
+WAD and music are copyright 2020, 2024 Lawrence Candilas
 
 WAD and music are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
