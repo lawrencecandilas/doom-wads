@@ -20,7 +20,7 @@ Additional Credits to   :
 New levels              : Yes
 Sounds                  : No
 Music                   : Yes (.ogg)
-Graphics                : Yes (pretty colors)
+Graphics                : Yes (mostly recolored textures)
 Dehacked/BEX Patch      : No
 Demos                   : No
 Other                   : No
@@ -43,7 +43,7 @@ Difficulty Settings     : Yes
 Base                    : New except some recolored textures
 Build Time              : 6 months total
 Editor(s) used          : Doom Builder 2, DBX2019.1
-Known Bugs              : Too large, takes too long to finish
+Known Bugs              : None
 May Not Run With        : Anything not GZDoom-based.
 Tested With             : GZDoom 4.5.0 (Earlier versions may not work)
 

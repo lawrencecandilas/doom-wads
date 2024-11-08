@@ -1,0 +1,20 @@
+There are 3 Ogg Vorbis music tracks in this WAD:
+- WHTITMUS - Title music
+- WHBGM - Level BGM music (same as Fairchild Island/FIBGM)
+- WHENDMUS - End music
+
+WHTITMUS
+========
+The title music was composed on onlinesequencer.net.
+It's here: https://onlinesequencer.net/4283987
+
+WHBGM
+=====
+The level BGM was composed using FL Studio 7.0 XXL v7.0.0.
+
+The level music is the same track as the one in my previous WAD Fairchild Island.  The following software VSTs were used in creating that track:
+- reFX PlastiCZ (version 1.0)
+
+WHENDMUS
+========
+This was also composed using FL Studio 7.0 XXL v7.0.0.
