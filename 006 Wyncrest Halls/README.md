@@ -3,7 +3,7 @@
 
 Wyncrest Halls is an old map I polished up for released that dates all the way back from 2003.  The par time is 30 minutes.
 
-![Title Image](https://github.com/lawrencecandilas/doom-wads/blob/main/005%20Blue%20Fire%20Park/BFTTLPIC.png)
+![Title Image](https://github.com/lawrencecandilas/doom-wads/blob/main/006%20Wyncrest%20Halls/Assets/WHTTLPIC.jpg?raw=true)
 
 ## About this WAD
 
@@ -17,7 +17,7 @@ This was designed to run under Doom 1.
 
 You need to use DOOM.WAD and not DOOM2.WAD otherwise you'll see lots of checkerboard missing-texture fillers.
 
-![Wyncrest Halls - Automap Preview](https://github.com/lawrencecandilas/doom-wads/blob/main/005%20Blue%20Fire%20Park/Blue%20Fire%20Park%20-%20Automap.png)
+![Wyncrest Halls - Automap Preview](https://github.com/lawrencecandilas/doom-wads/blob/main/006%20Wyncrest%20Halls/Wyncrest%20Halls%20-%20Automap%20Preview.png?raw=true)
 
 
 ## Notes
