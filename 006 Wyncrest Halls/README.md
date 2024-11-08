@@ -1,7 +1,7 @@
 # wyncrest-halls
  Wyncrest Halls WAD
 
-Wyncrest Halls is an old map I polished up for released that dates all the way back from 2003.  The par time is 30 minutes.
+Wyncrest Halls is an old map I polished up for release that I think I started all the way back from 2003.  The par time is 30 minutes. It sprawls a bit.
 
 ![Title Image](https://github.com/lawrencecandilas/doom-wads/blob/main/006%20Wyncrest%20Halls/Assets/WHTTLPIC.jpg?raw=true)
 
